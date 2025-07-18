@@ -10,6 +10,8 @@ AccessMonitor 360 is an autonomous multi-agent system built using CrewAI and Ope
 
 - Remediation Agent: Recommends actionable steps like disabling accounts or alerting SOC teams.
 
+![IAM Architecture](AccessMonitor_architecture.png)
+
 📁 Input Files
 
 - login_events.csv	Contains login attempts with src_ip, username, wilson_score
